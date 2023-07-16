@@ -6,4 +6,4 @@ To install node modules
 
 To Run 
 1) node index.js
-//Enter the url and it will create the qr image in png form and also the data is saved in txt file
+ (Enter the url and it will create the qr image in png form and also the data is saved in txt file)
