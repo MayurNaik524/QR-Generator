@@ -5,6 +5,5 @@ To install node modules
 2) npm i inquirer    (OR)   npm install inquirer
 
 To Run 
-node index.js
-
-Enter the url and it will create the qr image in png form and also the data is saved in txt file
+1) node index.js
+//Enter the url and it will create the qr image in png form and also the data is saved in txt file
